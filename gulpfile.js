@@ -8,10 +8,7 @@ var config = {
 
 gulp.task('css', function () {
     return gulp.src(config.scssDir + '/icomoon.scss')
-        .pipe(sass({
-            style: 'expanded',
-            sourcemap: false
-        }))
+        .pipe(sass())
         .on('error', notify.onError(function (error) {
             return 'Error: ' + error.message;
         }))
