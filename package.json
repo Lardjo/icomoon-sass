@@ -1,7 +1,7 @@
 {
   "name": "icomoon-sass",
   "version": "1.0.0",
-  "description": "icomoon-sass is a Sass version of Icomoon Font Icons, ready to drop right into your Sass applications.",
+  "description": "icomoon-sass is a Sass version of Icomoon Font Icons, ready to drop right into your Sass projects.",
   "author": "Konstantin N. aka Lardjo",
   "main": "gulpfile.js",
   "repository": {
