@@ -1,4 +1,4 @@
-Icomoon for Sass
+Icomoon for Sass [![Bower version](https://badge.fury.io/bo/icomoon-sass.svg)](http://badge.fury.io/bo/icomoon-sass)
 ============
 
 `icomoon-sass` is a Sass version of free Iconmoon library, ready to drop right into your Sass applications.
